@@ -21,7 +21,7 @@ A mobile application for finding and bookmarking local job opportunities.
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/saikumar013/Lokal-Android-Assignment.git
 ```
 
 2. Install dependencies
