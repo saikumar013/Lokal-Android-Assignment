@@ -2,6 +2,10 @@
 
 A mobile application for finding and bookmarking local job opportunities.
 
+## App Demo
+
+https://github.com/saikumar013/Lokal_Android-_Assignment/assets/demo.mp4
+
 ## Features
 
 - Browse available job listings
